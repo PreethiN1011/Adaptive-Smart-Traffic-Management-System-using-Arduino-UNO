@@ -50,11 +50,22 @@ The Arduino controls the traffic lights by switching LEDs in a predefined sequen
 
 ![Traffic Light 2](https://raw.githubusercontent.com/PreethiN1011/Adaptive-Smart-Traffic-Management-System-using-Arduino-UNO/main/TrafficLight2.jpeg)
 
+## 🔌 Tinkercad Circuit
+
+![Tinkercad Circuit](Tinkercad_Circuit.png)
+
+## 🔗 Tinkercad Simulation
+
+Explore the complete circuit simulation on Tinkercad:
+
+https://www.tinkercad.com/things/gaJrly2bNB0-bodacious-blad-vihelmo
+
 ## 🎥 Demo Video
 
 Watch the complete working demonstration here:
 
 ▶️ https://drive.google.com/open?id=1MFaMbMxLqDSWxCyWjOE5-0JHYRyrtrIc&usp=drive_fs
+
 
 ## 🚀 Future Improvements 
 
