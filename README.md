@@ -43,7 +43,7 @@ The Arduino controls the traffic lights by switching LEDs in a predefined sequen
 ## 📷 Project Images
 
 https://github.com/PreethiN1011/Adaptive-Smart-Traffic-Management-System-using-Arduino-UNO/blob/main/TrafficLight1.jpeg?raw=true
-
+https://github.com/PreethiN1011/Adaptive-Smart-Traffic-Management-System-using-Arduino-UNO/blob/main/TrafficLight2.jpeg
 ---
 
 ## 🎥 Demo Video
