@@ -52,7 +52,9 @@ The Arduino controls the traffic lights by switching LEDs in a predefined sequen
 
 ## 🔌 Tinkercad Circuit
 
-![Tinkercad Circuit](Tinkercad_Circuit.png)
+![Tinkercad Circuit](Schematic%20View.jpeg)
+
+![Tinkercad Circuit](Tinkercard%20Circuit.jpeg)
 
 ## 🔗 Tinkercad Simulation
 
