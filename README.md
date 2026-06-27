@@ -71,12 +71,11 @@ Watch the complete working demonstration here:
 
 ## 🚀 Future Improvements 
 
-- Vehicle detection using Ultrasonic Sensors
-- RFID Emergency Vehicle Priority
-- IoT Monitoring using ESP32
-- AI-based Traffic Density Detection
+- 🚑 Emergency vehicle priority using RFID or wireless communication.
+- 🌐 IoT integration for real-time traffic monitoring and remote control.
+- 📷 Camera-based vehicle detection using computer vision.
+- 🤖 AI/ML-based traffic prediction for dynamic signal timing.
 
----
 
 ## 👩‍💻 Author
 
