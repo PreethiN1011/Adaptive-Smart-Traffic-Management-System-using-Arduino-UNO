@@ -52,9 +52,9 @@ The Arduino controls the traffic lights by switching LEDs in a predefined sequen
 
 ## 🎥 Demo Video
 
-(Demo video link will be added here.)
+Watch the complete working demonstration here:
 
----
+▶️ https://drive.google.com/open?id=1MFaMbMxLqDSWxCyWjOE5-0JHYRyrtrIc&usp=drive_fs
 
 ## 🚀 Future Improvements 
 
